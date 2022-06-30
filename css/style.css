@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+   
+
+.ere img{
+    height: 300px;
+    width: 400px;
+}
+.ere1 img{
+    height: 300px;
+    width: 400px;
+}
+.fbox{
+    background-color:#D3EBCD;
+}
+.ere1 p{
+    margin: auto;
+    margin-top: 5px;
+    text-align: center;
+    border:1px solid black;
+    border: none;
+    padding: 15px;
+    background-color: #CDBBA7;
+    border-radius: 20px;
+    width: 50%;
+
+}
+.ere1 p:hover{
+    background-color:blue;
+    color: #fff;
+    transition:2s;
+}
+.fbox1{
+    background-color:#F6E3C5; 
+}
+.ere p{
+    margin: auto;
+    margin-top: 5px;
+    text-align: center;
+    border:1px solid black;
+    border: none;
+    padding: 15px;
+    background-color:#06113C;
+    color: #EBD8C3;
+    border-radius: 20px;
+    width: 50%;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.ere p:hover{
+    background-color: #D7A86E;
+    color:blue;
+    transition:2s;
+}
